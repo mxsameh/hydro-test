@@ -1,0 +1,10 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+  background: yellow;
+}
+.title {
+  color: green;
+  font-size: 64px;
+  font-style: italic;
+}
